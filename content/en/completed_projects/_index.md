@@ -3,4 +3,4 @@ title: "Completed Projects"
 description: ""
 ---
 
-These are previous projects run by our group
+#### These are previous projects run by our group

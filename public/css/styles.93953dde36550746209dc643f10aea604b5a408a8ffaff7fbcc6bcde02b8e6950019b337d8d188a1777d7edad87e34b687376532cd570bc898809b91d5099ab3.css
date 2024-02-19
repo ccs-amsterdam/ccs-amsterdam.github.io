@@ -298,13 +298,13 @@ body {
   }
 }
 .title {
-  margin-block-start: 70px;
+  margin-block-start: 50px;
   margin-block-end: 50px;
 }
 @media (min-width: calc(1200px + 25px + 25px)) {
   .title {
-    margin-block-start: 100px;
-    margin-block-end: 80px;
+    margin-block-start: 80px;
+    margin-block-end: 70px;
   }
 }
 h1,
@@ -314,13 +314,13 @@ h1,
   color: var(--primary-400);
   text-transform: uppercase;
   line-height: 112.2%;
-  font-size: 44px;
+  font-size: 38px;
 }
 @media (min-width: 1000px) {
   h1,
   .h1 {
     line-height: 115%;
-    font-size: 80px;
+    font-size: 60px;
   }
 }
 h2,

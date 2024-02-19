@@ -1,6 +1,6 @@
 ---
-title: "Completed Projects"
+title: "Current Projects"
 description: ""
 ---
 
-These are current projects by our group.
+#### These are current projects by our group

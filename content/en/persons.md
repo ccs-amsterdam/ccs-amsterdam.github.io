@@ -3,6 +3,8 @@ title: People
 description: Here are all the members of the group
 ---
 
+An overview of all the members of the group
+
 {{< cards >}}
 {{< card >}}
 
