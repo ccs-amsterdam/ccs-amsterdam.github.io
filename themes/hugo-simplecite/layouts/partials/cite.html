@@ -1,0 +1,42 @@
+{{- $context := . -}}
+
+{{- $bibentryId := "" -}}
+{{- with .Get 0 -}}
+{{- $bibentryId = . -}}
+{{- else -}}
+{{- errorf "No bibliographic entry ID was provided: %s" .Position -}}
+{{- end -}}
+
+{{- $bibentries := partial "get-bibentries" . -}}
+
+{{- $numCitedBibentries := 0 -}}
+{{- with (.Page.Scratch.Get "citedBibentries") -}}
+{{- $numCitedBibentries = len . -}}
+{{- end -}}
+
+{{- range where $bibentries "id" "eq" $bibentryId -}}
+
+{{- $wasAlreadyCited := false -}}
+{{- $bibentry := . -}}
+{{- $referenceIdx := 0 -}}
+
+{{- with ($context.Page.Scratch.Get "referenceIdxs") -}}
+{{- if isset . $bibentryId -}} 
+{{- $referenceIdx = index . $bibentryId -}}
+{{- $wasAlreadyCited = true -}}
+{{- end -}}
+{{- end -}}
+
+{{- if not $wasAlreadyCited -}}
+{{- $context.Page.Scratch.Add "citedBibentries" (slice $bibentry) -}}
+{{- $referenceIdx = (add $numCitedBibentries 1) -}}
+{{- $.Page.Scratch.SetInMap "referenceIdxs" $bibentryId $referenceIdx -}}
+{{- end -}}
+
+{{- with $referenceIdx -}}
+[<a class="hugo-simplecite-cite-hyperlink" href="#bibreference-{{ . }}" title="{{ partial "print-bibentry" (dict "context" $context) | plainify | htmlUnescape }}">{{ . }}</a>]
+{{- end -}}
+
+{{- else -}}
+{{- errorf "Could not find bibliographic entry with ID '%s': %s" $bibentryId .Position -}}
+{{- end -}}

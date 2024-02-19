@@ -1,0 +1,48 @@
+{{- $isEtAl := false -}}
+{{- $bibentries := index . "bibentries" -}}
+{{- $personFieldName := index . "personFieldName" -}}
+
+{{- with (index $bibentries $personFieldName) -}}
+{{- $numPersons := len . -}}
+{{- range $personIdx, $person := . -}}
+
+{{- $displayedName := "" -}}
+
+{{- with $person.literal -}}
+
+{{- if and (eq . "others") (eq $numPersons (add $personIdx 1)) -}}
+{{- $displayedName = printf "%s%s" $displayedName "<em>et al.</em>" -}}
+{{- $isEtAl = true -}}
+{{- else -}}
+{{ . }}
+{{- end -}}
+
+{{- else -}}
+
+{{- with $person.given -}}
+{{- $displayedName = printf "%s%s. " $displayedName (substr . 0 1) -}}
+{{- end -}}
+
+{{- with $person.secondInitial -}}
+{{- $displayedName = printf "%s%s. " $displayedName (substr . 0 1) -}}
+{{- end -}}
+
+{{- with $person.family -}}
+{{- $displayedName = printf "%s%s" $displayedName . -}}
+{{- end -}} 
+
+{{- end -}}
+
+{{- if (gt $personIdx 0) -}}
+
+{{- if (lt (add $personIdx 1) $numPersons) -}}
+,&#32;
+{{- else -}}
+{{ if ne $numPersons 2 }},{{ end }}{{if not $isEtAl }} and{{ end }}&#32;
+{{- end -}}
+
+{{- end -}}
+{{- $displayedName | markdownify -}}
+
+{{- end -}}
+{{- end -}}

@@ -1,0 +1,16 @@
+{{- $context := . -}}
+{{- $bibentries := index . "bibentries" -}}
+{{- $timeFieldName := index . "timeFieldName" -}}
+
+{{- with index $bibentries $timeFieldName -}}
+{{- with index . "date-parts" -}}
+{{- with index . 0 -}}
+{{- if (ge (len .) 2) -}}
+{{- $date := (print (index . 0) "-" (printf "%02.f" (index . 1)) "-01" ) -}}
+{{ dateFormat "Jan. 2006" $date }}
+{{- else -}}
+{{- partial "styles/ieee/parts/year" $context -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
