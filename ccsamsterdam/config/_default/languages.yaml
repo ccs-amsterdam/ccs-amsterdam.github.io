@@ -1,0 +1,72 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} CCS Amsterdam. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "CCS Amsterdam"
+  description: "Website of CCS Amsterdam"
+  params:
+    ### accessibility ###
+    #accessibility:
+    #  skip_text: "Skip to content"
+    #  help_text: "Accessibility Statement"
+    #  help_url: "/example-page/"
+    ### calls to action ###
+    #main_cta:
+    #  text: "Join"
+    #  link: "/example-page/"
+    #footer_cta:
+    #  text: "Join us"
+    #  link: "/example-page/"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  menu:
+    main:
+      - identifier: "news"
+        name: "News"
+        url: "/news_blog/"
+        weight: 1
+      - identifier: "team"
+        name: "Team"
+        url: "/persons/"
+        weight: 2
+      - identifier: "projects"
+        name: "Current Projects"
+        url: "/current_projects/"
+        weight: 3
+      - identifier: "projects-archive"
+        name: "Completed Projects"
+        url: "/completed_projects/"
+        weight: 4
+      - identifier: "publications"
+        name: "Publications"
+        url: "/publications/"
+        weight: 5
+      - identifier: "resources"
+        name: "Resources"
+        url: "/resources/"
+        weight: 6
+      - identifier: "project-1"
+        name: "A Promise is a Promise"
+        url: "/current_projects/a_promise_is_a_promise/"
+        weight: 1
+        post: "Unfolding the Electoral Ramifications of Political Compromises"
+        parent: "projects"
+      - identifier: "project-2"
+        name: "Digicomlab"
+        url: "/current_projects/digicomlab/"
+        weight: 2
+        post: "The Research Priority Area Communication at the University of Amsterdam hosts the Digital Communication Methods Lab"
+        parent: "projects"
+      - identifier: "project-3"
+        name: "EXPO"
+        url: "/current_projects/expo/"
+        weight: 3
+        post: "Citizens Exposed to Dissimilar Views in the Media"
+        parent: "projects"
+      - identifier: "project-4"
+        name: "Gatekeeping in the era of fake news"
+        url: "/current_projects/gatekeeping/"
+        weight: 3
+        post: "The effects of trust on online news consumption behavior"
+        parent: "projects"

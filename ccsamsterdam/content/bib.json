@@ -1,0 +1,182 @@
+[
+	{
+		"id": "http://zotero.org/users/6062661/items/M4UZH9X7",
+		"type": "article-journal",
+		"abstract": "With the rise of Web 2.0 the discussion about professional journalism changing radically or even becoming obsolete in the future has intensified. Up to now, empirical findings mainly stem from research on (micro-)blogging and show its complementary rather than equivalent function compared with professional journalism. Amazingly, the performance of collaborative amateur news websites with an explicitly journalistic approach has rarely been studied so far. Therefore, this paper compares the coverage of German Wikinews with a professional German mass media website and finds significant differences in various dimensions. It thus contributes to the growing empirical evidence and literature on citizen journalism.",
+		"archive": "edselp",
+		"container-title": "Studies in Communication Sciences",
+		"DOI": "10.1016/j.scoms.2013.09.001",
+		"ISSN": "1424-4896",
+		"issue": "2",
+		"journalAbbreviation": "Studies in Communication Sciences",
+		"note": "publisher: Elsevier GmbH",
+		"page": "139-147",
+		"source": "EBSCOhost",
+		"title": "Amateurs striving for news production. Can they compete with professional journalism?",
+		"URL": "http://proxy.library.nyu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1424489613000532&site=eds-live",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Bosshart",
+				"given": "Stefan G."
+			},
+			{
+				"family": "Schoenhagen",
+				"given": "Philomen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6062661/items/FJFHILDS",
+		"type": "article-journal",
+		"archive_location": "WOS:000334442100019",
+		"container-title": "JOURNAL OF COMPUTER-MEDIATED COMMUNICATION",
+		"DOI": "10.1111/jcc4.12042",
+		"ISSN": "1083-6101",
+		"issue": "3",
+		"page": "591-609",
+		"title": "Are We All Online Content Creators Now? Web 2.0 and Digital Divides",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Brake",
+				"given": "DR"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6062661/items/2AZKAT7Y",
+		"type": "article-journal",
+		"archive_location": "WOS:000446033800015",
+		"container-title": "NEW MEDIA & SOCIETY",
+		"DOI": "10.1177/1461444818760870",
+		"ISSN": "1461-4448",
+		"issue": "10",
+		"page": "3799-3817",
+		"title": "Beyond notification: Filling gaps in peer production projects",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Ford",
+				"given": "H"
+			},
+			{
+				"family": "Pensa",
+				"given": "L"
+			},
+			{
+				"family": "Devouard",
+				"given": "F"
+			},
+			{
+				"family": "Pucciarelli",
+				"given": "M"
+			},
+			{
+				"family": "Botturi",
+				"given": "L"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6062661/items/3V43NP9Z",
+		"type": "article-journal",
+		"archive_location": "WOS:000255464200003",
+		"container-title": "JOURNAL OF COMPUTER-MEDIATED COMMUNICATION",
+		"DOI": "10.1111/j.1083-6101.2008.00403.x",
+		"ISSN": "1083-6101",
+		"issue": "2",
+		"page": "429-440",
+		"title": "An analysis of topical coverage of Wikipedia",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Halavais",
+				"given": "A"
+			},
+			{
+				"family": "Lackaff",
+				"given": "D"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6062661/items/CIAZXI6G",
+		"type": "article-journal",
+		"abstract": "Feminist STS has long established that science?s provenance as a male domain continues to define what counts as knowledge and expertise. Wikipedia, arguably one of the most powerful sources of information today, was initially lauded as providing the opportunity to rebuild knowledge institutions by providing greater representation of multiple groups. However, less than ten percent of Wikipedia editors are women. At one level, this imbalance in contributions and therefore content is yet another case of the masculine culture of technoscience. This is an important argument and, in this article, we examine the empirical research that highlights these issues. Our main objective, however, is to extend current accounts by demonstrating that Wikipedia?s infrastructure introduces new and less visible sources of gender disparity. In sum, our aim here is to present a consolidated analysis of the gendering of Wikipedia.",
+		"container-title": "Social Studies of Science",
+		"DOI": "10.1177/0306312717692172",
+		"ISSN": "0306-3127",
+		"issue": "4",
+		"journalAbbreviation": "Soc Stud Sci",
+		"language": "en",
+		"note": "publisher: SAGE Publications Ltd",
+		"page": "511-527",
+		"source": "SAGE Journals",
+		"title": "‘Anyone can edit’, not everyone does: Wikipedia’s infrastructure and the gender gap",
+		"title-short": "‘Anyone can edit’, not everyone does",
+		"URL": "https://doi.org/10.1177/0306312717692172",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Ford",
+				"given": "Heather"
+			},
+			{
+				"family": "Wajcman",
+				"given": "Judy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8,
+					1
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,6 @@
+[submodule "ccsamsterdam/themes/dot-org-hugo-theme"]
+	path = ccsamsterdam/themes/dot-org-hugo-theme
+	url = https://github.com/cncf/dot-org-hugo-theme.git
+[submodule "ccsamsterdam/themes/hugo-simplecite"]
+	path = ccsamsterdam/themes/hugo-simplecite
+	url = https://github.com/joksas/hugo-simplecite
