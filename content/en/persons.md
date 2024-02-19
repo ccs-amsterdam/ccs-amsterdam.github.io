@@ -8,7 +8,7 @@ description: Here are all the members of the group
 
 #### Alain Starke
 
-{{< img src="img/people/alain_starke.jpeg" >}}
+{{< img src="/img/people/alain_starke.jpeg" >}}
 Assistant Professor Persuasive Communication, ASCoR
 {{< spacer >}}
 <a href="https://www.uva.nl/profiel/s/t/a.d.starke/a.d.starke.html" target="_blank">Website</a>
