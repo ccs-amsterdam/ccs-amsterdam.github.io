@@ -1,8 +1,9 @@
 :root {
-  --condensed-font-family: "Oswald", "Impact", "Arial Black", sans-serif, -apple-system, BlinkMacSystemFont, Roboto,
-    Ubuntu;
-  --rounded-font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, Roboto,
-    Ubuntu, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --condensed-font-family: "Oswald", "Impact", "Arial Black", sans-serif,
+    -apple-system, BlinkMacSystemFont, Roboto, Ubuntu;
+  --rounded-font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif, Roboto, Ubuntu, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
   --text-color: var(--black);
   --black: #000000;
   --white: #ffffff;
@@ -14,11 +15,11 @@
   --gutter: 25px;
   --container-width: 1200px;
   --content-width: 895px;
-  --primary-400: #5aa100;
-  --primary-500: #4d8307;
-  --primary-600: #03856f;
-  --primary-700: #016554;
-  --primary-800: #003c32;
+  --primary-400: #101010;
+  --primary-500: #101010;
+  --primary-600: #757575;
+  --primary-700: #b0b0b0;
+  --primary-800: #757575;
   --gray-200: #eaecf0;
   --gray-300: #e5e5e5;
   --gray-400: #e4e4e4;
