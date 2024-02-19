@@ -13,7 +13,7 @@ custom_css: []
 
 github:
   repo_url: "https://github.com/ccs-amsterdam/ccsamsterdam.github.io"
-  show_edit_link: true
+  show_edit_link: false
 
 social_links:
   devstats: ""

@@ -1,6 +1,7 @@
 ---
 title: Welcome to CCS Amsterdam!
 description: This is the website of the CCS Amsterdam group.
+github_repo: https://github.com/ccs-amsterdam/ccs-amsterdam.github.io/blob/main/content/en/_index.md
 ---
 
 ##### Welcome to the Computational Communication Science Amsterdam (CCS Amsterdam) website. On our website you can find an overview of news, ongoing and concluded research projects, publications, and resources for teaching and learning computational methods for social/communication science.
