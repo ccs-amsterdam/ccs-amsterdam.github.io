@@ -1,6 +1,6 @@
 ######################## production configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL: https://ccs-amsterdam.github.io/ccsamsterdam.github.io/
+baseURL: https://ccs-amsterdam.github.io/
 googleAnalytics:
 staticDir: static
 enableRobotsTXT: true
