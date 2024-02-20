@@ -58,15 +58,21 @@ en:
         weight: 2
         post: "The Research Priority Area Communication at the University of Amsterdam hosts the Digital Communication Methods Lab"
         parent: "projects"
-      - identifier: "project-3"
-        name: "EXPO"
-        url: "/current_projects/expo/"
-        weight: 3
-        post: "Citizens Exposed to Dissimilar Views in the Media"
-        parent: "projects"
       - identifier: "project-4"
         name: "Gatekeeping in the era of fake news"
         url: "/current_projects/gatekeeping/"
         weight: 3
         post: "The effects of trust on online news consumption behavior"
         parent: "projects"
+      - identifier: "project-archive-1"
+        name: "JEDS Tracking the Filter Bubble"
+        url: "/completed_projects/tracking_the_filter_bubble/"
+        weight: 1
+        post: "The effects of trust on online news consumption behavior"
+        parent: "projects-archive"
+      - identifier: "project-archive-2"
+        name: "EXPO"
+        url: "/completed_projects/expo/"
+        weight: 2
+        post: "Citizens Exposed to Dissimilar Views in the Media"
+        parent: "projects-archive"

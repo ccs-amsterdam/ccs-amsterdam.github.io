@@ -4,7 +4,7 @@
 logo_on_white: "/img/logo.png"
 logo_on_black: "/img/logo.png"
 custom_js: []
-custom_css: []
+custom_css: ["/css/hugo-cite.css"]
 
 ######################## custom config ####################
 
@@ -37,7 +37,7 @@ social_links:
 # Makes the header sticky on tall screens
 sticky_header: true
 # Enable search in header UI
-show_search: true
+show_search: false
 
 markup:
   goldmark:

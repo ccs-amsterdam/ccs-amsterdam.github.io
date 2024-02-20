@@ -1,16 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>en/sitemap.xml</loc>
-    
-      <lastmod>2022-04-12T00:00:00-07:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>nl/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ccs-amsterdam.github.io/resources/data_science_with_r/</loc>
+    <lastmod>2022-04-12T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/resources/our_github/</loc>
+    <lastmod>2022-04-12T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/news_blog/</loc>
+    <lastmod>2022-04-12T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/resources/</loc>
+    <lastmod>2022-04-12T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/news_blog/veni_grants/</loc>
+    <lastmod>2022-04-12T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/</loc>
+    <lastmod>2022-04-12T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/current_projects/a_promise_is_a_promise/</loc>
+    <lastmod>2022-02-19T00:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/current_projects/expo/</loc>
+    <lastmod>2022-02-19T00:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/current_projects/gatekeeping/</loc>
+    <lastmod>2022-02-19T00:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/current_projects/</loc>
+    <lastmod>2022-02-19T00:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/current_projects/digicomlab/</loc>
+    <lastmod>2022-02-19T00:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/categories/</loc>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/completed_projects/</loc>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/persons/</loc>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/publications/</loc>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/search/</loc>
+  </url><url>
+    <loc>https://ccs-amsterdam.github.io/tags/</loc>
+  </url>
+</urlset>

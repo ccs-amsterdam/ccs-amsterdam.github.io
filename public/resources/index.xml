@@ -1,0 +1,30 @@
+<rss version="2.0">
+    <channel>
+        <title>Resources on CCS Amsterdam</title>
+        <link>https://ccs-amsterdam.github.io/resources/</link>
+        <description>Recent content in CCS Amsterdam</description>
+
+         
+            
+                 
+                <item>
+                    <title>Data Science with R for Social Scientists</title>
+                    <link>https://ccs-amsterdam.github.io/resources/data_science_with_r/</link>
+                    <pubDate>Tue, 12 Apr 2022 00:00:00 -0700</pubDate>
+                    <description>Video by Johannes Gruber (UvA) Play Video on YouTube </description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>GitHub (our page and what to do with it)</title>
+                    <link>https://ccs-amsterdam.github.io/resources/our_github/</link>
+                    <pubDate>Tue, 12 Apr 2022 00:00:00 -0700</pubDate>
+                    <description>Our GitHub Here you can find the link to our GitHub. It includes material for different projects members of the group have done in the past or are still working on. Some things you will find there:
+Course Material for teaching R Annotinder: R package for working with a CCS Annotator for text annotation DigitalFootprintsLab for gathering, visualizing, and exporting digital trace data How to work with GitHub If you are new to working with GitHub, here are a few pointers explaining how to get started:</description>
+                </item>
+                
+            
+        
+    </channel>
+</rss>

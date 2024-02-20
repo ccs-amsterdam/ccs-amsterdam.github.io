@@ -1,121 +1,81 @@
 <rss version="2.0">
     <channel>
-        <title>Welcome! on CCS Amsterdam</title>
-        <link>/</link>
+        <title>Welcome to CCS Amsterdam! on CCS Amsterdam</title>
+        <link>https://ccs-amsterdam.github.io/</link>
         <description>Recent content in CCS Amsterdam</description>
 
          
             
                  
                 <item>
-                    <title>VENI grants for Andreu Casas and Philipp Masur!</title>
-                    <link>/news_blog/veni_grants/</link>
+                    <title>Data Science with R for Social Scientists</title>
+                    <link>https://ccs-amsterdam.github.io/resources/data_science_with_r/</link>
                     <pubDate>Tue, 12 Apr 2022 00:00:00 -0700</pubDate>
-                    <description>We have some fantastic news to share: two CCS.Amsterdam researchers were granted prestigious NWO VENI research grants! Congratulations to Andreu Casas and Philipp Masur!
-See brief project summaries below.
-Free Speech and Censorship in the Digital Society: A computational study of the determinants and effects of political speech regulation by social media companies Andreu Casas, VU Amsterdam
+                    <description>Video by Johannes Gruber (UvA) Play Video on YouTube </description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>GitHub (our page and what to do with it)</title>
+                    <link>https://ccs-amsterdam.github.io/resources/our_github/</link>
+                    <pubDate>Tue, 12 Apr 2022 00:00:00 -0700</pubDate>
+                    <description>Our GitHub Here you can find the link to our GitHub. It includes material for different projects members of the group have done in the past or are still working on. Some things you will find there:
+Course Material for teaching R Annotinder: R package for working with a CCS Annotator for text annotation DigitalFootprintsLab for gathering, visualizing, and exporting digital trace data How to work with GitHub If you are new to working with GitHub, here are a few pointers explaining how to get started:</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>VENI grants for Andreu Casas and Philipp Masur!</title>
+                    <link>https://ccs-amsterdam.github.io/news_blog/veni_grants/</link>
+                    <pubDate>Tue, 12 Apr 2022 00:00:00 -0700</pubDate>
+                    <description>We have some fantastic news to share: two CCS.Amsterdam researchers were granted prestigious NWO VENI research grants! Congratulations to Andreu Casas and Philipp Masur! See brief project summaries below. Free Speech and Censorship in the Digital Society: A computational study of the determinants and effects of political speech regulation by social media companies Andreu Casas, VU Amsterdam
 Private social media companies increasingly play a role in regulating (political) speech online, posing a clear threat to democratic accountability.</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post/</link>
-                    <pubDate>Wed, 14 Apr 2021 00:00:00 -0700</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
+                    <title>A Promise is a Promise! Unfolding the Electoral Ramifications of Political Compromises</title>
+                    <link>https://ccs-amsterdam.github.io/current_projects/a_promise_is_a_promise/</link>
+                    <pubDate>Sat, 19 Feb 2022 00:00:00 -0800</pubDate>
+                    <description>In her VENI, Mariken van der Velden theorizes that political compromises force politicians to strategically communicate their decisions in order to mitigate electoral costs. Comparing the Dutch, German and Spanish case, she test her argument at three levels: the politicians level, employing advanced computational text approaches coupled with case-oriented approaches to identify how politicians make compromises and when they adapt their rhetoric to justify them; on the voter level, experimentally investigating the willingness to accept compromises using Virtual Reality techniques; and bridging the two by utilizing regression and experimental techniques to study the real-world effects of compromises.</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>This is an older post</title>
-                    <link>/news_blog/old-post-2/</link>
-                    <pubDate>Sun, 14 Mar 2021 00:00:00 -0800</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
+                    <title>A Promise is a Promise! Unfolding the Electoral Ramifications of Political Compromises</title>
+                    <link>https://ccs-amsterdam.github.io/current_projects/expo/</link>
+                    <pubDate>Sat, 19 Feb 2022 00:00:00 -0800</pubDate>
+                    <description>In her VENI, Mariken van der Velden theorizes that political compromises force politicians to strategically communicate their decisions in order to mitigate electoral costs. Comparing the Dutch, German and Spanish case, she test her argument at three levels: the politicians level, employing advanced computational text approaches coupled with case-oriented approaches to identify how politicians make compromises and when they adapt their rhetoric to justify them; on the voter level, experimentally investigating the willingness to accept compromises using Virtual Reality techniques; and bridging the two by utilizing regression and experimental techniques to study the real-world effects of compromises.</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-3/</link>
-                    <pubDate>Sun, 14 Feb 2021 00:00:00 -0800</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
+                    <title>A Promise is a Promise! Unfolding the Electoral Ramifications of Political Compromises</title>
+                    <link>https://ccs-amsterdam.github.io/current_projects/gatekeeping/</link>
+                    <pubDate>Sat, 19 Feb 2022 00:00:00 -0800</pubDate>
+                    <description>In her VENI, Mariken van der Velden theorizes that political compromises force politicians to strategically communicate their decisions in order to mitigate electoral costs. Comparing the Dutch, German and Spanish case, she test her argument at three levels: the politicians level, employing advanced computational text approaches coupled with case-oriented approaches to identify how politicians make compromises and when they adapt their rhetoric to justify them; on the voter level, experimentally investigating the willingness to accept compromises using Virtual Reality techniques; and bridging the two by utilizing regression and experimental techniques to study the real-world effects of compromises.</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-4/</link>
-                    <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
+                    <title>Digicomlab</title>
+                    <link>https://ccs-amsterdam.github.io/current_projects/digicomlab/</link>
+                    <pubDate>Sat, 19 Feb 2022 00:00:00 -0800</pubDate>
+                    <description>The Research Priority Area Communication at the University of Amsterdam (UvA) hosts the Digital Communication Methods Lab (digicomlab). In particular, it integrates research done at the Communication Science department around the topics of:
+Augmented Reality Applications Automated Content Analysis Conversational Agents and AI Media Exposure Physiological Responses in Communication Social Robots More information on their website.</description>
                 </item>
                 
             
-                 
-                <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-5/</link>
-                    <pubDate>Mon, 14 Sep 2020 00:00:00 -0700</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
-                </item>
                 
             
-                 
-                <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-6/</link>
-                    <pubDate>Fri, 14 Aug 2020 00:00:00 -0700</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
-                </item>
                 
             
-                 
-                <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-7/</link>
-                    <pubDate>Tue, 14 Jul 2020 00:00:00 -0700</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
-                </item>
-                
-            
-                 
-                <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-8/</link>
-                    <pubDate>Sun, 14 Jun 2020 00:00:00 -0700</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
-                </item>
-                
-            
-                 
-                <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-9/</link>
-                    <pubDate>Thu, 14 May 2020 00:00:00 -0700</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
-                </item>
-                
-            
-                 
-                <item>
-                    <title>This is an old post</title>
-                    <link>/news_blog/old-post-10/</link>
-                    <pubDate>Tue, 14 Apr 2020 00:00:00 -0700</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
-                </item>
                 
             
         

@@ -1,10 +1,10 @@
 ---
-title: "A Promise is a Promise! Unfolding the Electoral Ramifications of Political Compromises"
+title: "Gatekeeping in the era of fake news: The effects of trust on online news consumption behaviour"
 description: ""
 date: 2022-02-19
 author: feloe
 ---
 
-In her VENI, Mariken van der Velden theorizes that political compromises force politicians to strategically communicate their decisions in order to mitigate electoral costs. Comparing the Dutch, German and Spanish case, she test her argument at three levels: the politicians level, employing advanced computational text approaches coupled with case-oriented approaches to identify how politicians make compromises and when they adapt their rhetoric to justify them; on the voter level, experimentally investigating the willingness to accept compromises using Virtual Reality techniques; and bridging the two by utilizing regression and experimental techniques to study the real-world effects of compromises. With the ever-growing number of communication platforms that politicians use to inform voters, the opportunities to analyse textual data – e.g. machine learning – also increases. This allows me to build and test an empirical model of the ramifications of political compromise. Mariken’s research breaks new ground by bridging insights from computatioonal methods, communication science, and political science. It thereby advances our understanding of voters’ critical attitudes towards democratic processes, such as coalition government formation – referred to as ‘cartel politics’ by populists.
+Democracy requires news media that act as gatekeepers by monitoring, curating and interpreting information about important events. Today, many people obtain their news from a wide range and diversity of online gatekeepers, ranging from professional journalists to friends and strangers on social media. This has raised strong concerns regarding how people decide which gatekeepers to trust: low trust undermines the role of gatekeepers to inform society and control power, but blind trust leaves people vulnerable to misinformation and disinformation. Yet, while there has been much attention for reports about the state of trust in news, we know little about how trust affects news consumption behavior. To better understand the role of trust in the gatekeeping process and the consequences of the current trust crisis, this project will investigate whether and how trust affects the ways in which people select, share and process online news.
 
-This project is funded by a NWO Veni grant awarded to Mariken van der Velden.
+This project is funded by a NWO Veni grant awarded to Kasper Welbers.
