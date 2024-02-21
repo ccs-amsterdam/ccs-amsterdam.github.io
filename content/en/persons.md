@@ -171,6 +171,17 @@ Associate Professor Political Communication, VU
 
 {{< card >}}
 
+#### Marieke van Hoof
+
+{{< img src="/img/people/marieke_van_hoof.jpeg" >}}
+Postdoc Political Communication, UvA
+{{< spacer >}}
+<a href="https://www.uva.nl/en/profile/h/o/m.vanhoof/m.van-hoof.html" target="_blank">Website</a>
+{{< spacer >}}
+{{< /card >}}
+
+{{< card >}}
+
 #### Mariken van der Velden
 
 {{< img src="/img/people/mariken_van_der_velden.jpeg" >}}
