@@ -4,10 +4,6 @@ date: 2024-03-22
 author: Justin Chun-ting Ho
 ---
 
-# Image and Text Analysis using Multi-modal Embeddings
-
-Author: Justin Chun-ting Ho
-
 Last Update: 22 Mar 2024
 
 Description: Workshop materials for the Image and Text Topic Modelling using Multi-modal Embeddings. Designed to work with Google Colab. Check the full version on https://github.com/justinchuntingho/ImageTextAnalysisWorkshop
